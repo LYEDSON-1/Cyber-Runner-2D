@@ -1,0 +1,6 @@
+{
+  "name": "Cyber Runner 2D",
+  "description": "Um jogo 2D estilo Endless Runner emocionante e responsivo, ambientado em uma atmosfera cyberpunk com efeitos sonoros sintetizados e progressão dinâmica de dificuldade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
